@@ -1,2 +1,3 @@
 # hello-world
 uczę się...
+blablablabla.... nie wiem co ale coś powinnam napisać
